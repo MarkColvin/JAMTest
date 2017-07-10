@@ -1,2 +1,0 @@
-# JAMTest
-Test
